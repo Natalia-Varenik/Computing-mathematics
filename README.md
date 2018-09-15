@@ -1,1 +1,1 @@
-# -omputing-mathematics
+# Сomputing-mathematics
