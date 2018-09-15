@@ -1,1 +1,1 @@
-# Сomputing-mathematics
+# Сomputing mathematics
